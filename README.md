@@ -32,4 +32,6 @@ I do not own this source code. The leaks are not from me. I uploaded the extract
 Please use the [New Issue](https://github.com/akinbicer/windows-nt5/issues/new) button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
 
 ## build guide
-1. https://rentry.co/open_xp#build-preparations 
+1. https://rentry.co/open_xp#build-preparations
+2. https://wink.messengergeek.com/t/windows-xp-server-2003-source-code-revisited/22711?page=4
+3. https://rentry.co/build-win2k3
