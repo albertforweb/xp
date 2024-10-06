@@ -30,3 +30,6 @@ I do not own this source code. The leaks are not from me. I uploaded the extract
 
 ## Issues, Feature Requests or Support
 Please use the [New Issue](https://github.com/akinbicer/windows-nt5/issues/new) button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
+
+## build guide
+1. https://rentry.co/open_xp#build-preparations 
