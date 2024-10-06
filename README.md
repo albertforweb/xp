@@ -35,3 +35,4 @@ Please use the [New Issue](https://github.com/akinbicer/windows-nt5/issues/new) 
 1. https://rentry.co/open_xp#build-preparations
 2. https://wink.messengergeek.com/t/windows-xp-server-2003-source-code-revisited/22711?page=4
 3. https://rentry.co/build-win2k3
+4. https://archive.org/details/windows-source-code#:~:text=nt5src.7z%20info%20(NOTREPACKED):nt5src.7z%202,93%20GB%20(3.149.677.191%20bytes)CRC32%20E283D63DMD5%2094DEA413D439DDA8ABCAC83CFE799FC7SHA-1...
